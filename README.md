@@ -17,6 +17,7 @@ Instead go into the `chrome` folder and run this:
 
 ```bash
 git init .
+echo "*" >> .gitignore
 git remote add -f origin https://github.com/frederikbanke/melon-browser 
 git checkout main
 ```
