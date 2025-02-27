@@ -1,0 +1,4 @@
+# We do not want to track installed Zen themes.
+zen-themes*
+# Mac specific files
+.DS_store
